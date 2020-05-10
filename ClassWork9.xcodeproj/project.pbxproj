@@ -289,6 +289,7 @@
 				DEVELOPMENT_TEAM = 7K3JE8ZT37;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ClassWork9/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +310,7 @@
 				DEVELOPMENT_TEAM = 7K3JE8ZT37;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ClassWork9/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
